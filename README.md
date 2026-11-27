@@ -23,6 +23,8 @@ The app checks for updates by itself and installs them when you choose (Settings
 App updates). After an update, a short note shows what changed; every version's notes are in
 Settings > What's new.
 
+**Coming from 1.x?** Version 2.0 is rebuilt on a new base, so 1.x can't update to it by itself. Uninstall LGB Companion first (Windows Settings > Apps > Installed apps), then install 2.x from the download above. Your settings, tabs, notes and checklists stay on your PC and are there again after the install; you only need to sign in with Discord once more. From 2.0 on, updates install by themselves again.
+
 ## Your privacy
 
 - The app never reads, changes or connects to a game, its files or its process. The Play button
